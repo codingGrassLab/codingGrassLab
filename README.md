@@ -8,7 +8,10 @@ I work at the intersection of **molecular biology, computational science, and da
 
 My interests span **multi-omics analysis, disease-associated molecular mechanisms, structural dynamics, and evolutionary genomics**, with an emphasis on reproducible computational workflows.
 
-**Because a statistically significant *p*-value is a starting point, not a biological explanation.**
+
+$$
+\color{#2DA44E}{\text{Because a statistically significant }p\text{-value is a starting point, not a biological explanation.}}
+$$
 
 ---
 
